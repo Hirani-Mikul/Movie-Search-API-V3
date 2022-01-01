@@ -2,6 +2,13 @@
 # Movie-Search-API-V3
 Movie app - fetches movies/shows data from the MovieDB.
 =======
+
+# You need to add .env file in the root folder with:
+REACT_APP_MOVIEDB_API=https://api.themoviedb.org/3/
+REACT_APP_MOVIEDB_API_KEY= {YOUR API KEY} Insert your API KEY (get from MovieDB (TMDB))
+
+Link MovieDB API: https://www.themoviedb.org/documentation/api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
